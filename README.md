@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed Ali
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/AhmedAli62/AhmedAli62/blob/main/66b0d05b76fc31.24199851Processed.jpeg)
+![I am GitHub Readme Generator's creator](https://github.com/AhmedAli62/AhmedAli62/blob/main/Screenshot%20(5).png)
 
 Hey, I'm Ahmed Web and Mobile Developer, 
 Proficient in html/css/javascript
