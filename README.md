@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, my name is Ahmed Ali
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/BvMd9dFB/Untitled-1.jpg)
 
-<!--
-**AhmedAli62/AhmedAli62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Ahmed Web and Mobile Developer, 
+Proficient in html/css/javascript
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: instagaram (Ahmedali961) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedAli62)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAli62)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAli62&show_icons=true)  
+
